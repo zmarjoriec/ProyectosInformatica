@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-login{
+    width: 400px;
+    height: 390px;
+    background: #24303c;
+    margin: auto;
+    border-radius: 4px;
+    margin-top: 100px;
+    padding: 30px;
+    font-family: 'arial';
+    color: white;
+}
+
+.form-login h5{
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid;
+    font-size: 20px;
+    
+}
+
+body{
+    font-family: 'arial';
+   background: url(fondologin.jpg)
+}
+
+.controls{
+    width: 100%;
+    border: 1px solid #017bab;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: #252323;
+    font-size: 16px;
+}
+
+.buttons{
+    width: 100%;
+    padding: 12px;
+   font-size: 16px;
+    background: #1f53c5;
+    border: none;
+    color:white;
+    margin: 16px 0;
+}
+
+.form-login p{
+    height: 40px;
+    text-align: center;
+    font-family: 'arial';
+}
+
+.form-login a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'arial';
+}
+
+.form-login a:hover{
+    text-decoration: underline;
+}
+
+
+    
